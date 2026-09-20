@@ -1,0 +1,8 @@
+.git
+.github
+.agents
+.codex
+.DS_Store
+**/.DS_Store
+**/*.o
+**/*.d
